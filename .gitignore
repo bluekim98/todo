@@ -34,6 +34,6 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 .git
-.vscode
+/.vscode
 
-config
+/config
